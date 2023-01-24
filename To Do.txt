@@ -1,0 +1,3 @@
+Expose OSC params
+Give MIDI out option
+Change spread so it becomes stereo
